@@ -1,0 +1,3 @@
+package queue
+
+import "design/lib/list"
